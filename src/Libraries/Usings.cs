@@ -1,4 +1,5 @@
 ﻿// Common
+global using Application;
 global using Microsoft.Extensions.Logging;
 global using Microsoft.Extensions.Options;
 
